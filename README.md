@@ -12,6 +12,7 @@ This is a simple console-based implementation of the classic Tic Tac Toe game wr
      4 | 5 | 6
     -----------
      7 | 8 | 9
+    -----------
 
 5. The game checks for the validity of the entered position and ensures it is not already occupied.
 6. The game prints the updated grid after each turn.
